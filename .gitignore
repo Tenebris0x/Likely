@@ -10,7 +10,6 @@ CVS
 node_modules/*
 npm-debug.log
 bg/*
-release/*
 test/screenshots/*
 
 # JetBrains
