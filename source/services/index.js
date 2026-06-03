@@ -1,6 +1,7 @@
 import facebook from './facebook';
 import initService from '../init_service';
 import linkedin from './linkedin';
+import max from './max';
 import odnoklassniki from './odnoklassniki';
 import pinterest from './pinterest';
 import reddit from './reddit';
@@ -14,6 +15,7 @@ import xcom from './xcom';
 const services = {
     facebook,
     linkedin,
+    max,
     odnoklassniki,
     pinterest,
     reddit,
