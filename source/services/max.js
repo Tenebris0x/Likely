@@ -5,7 +5,8 @@
 
 export default {
     name: 'max',
-    popupUrl: 'https://max.ru/:share?text={url}%20{title}',
+    popupUrl: 'https://max.ru/:share?text={url}',
+  openPopup: false,
     popupWidth: 485,
     popupHeight: 355,
     knownParams: ['url', 'title'],
